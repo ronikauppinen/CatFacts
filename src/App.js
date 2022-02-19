@@ -74,11 +74,11 @@ useEffect(() => {
         <h2>Glass</h2>
         <p>{glass}</p>
         <h2>Measurements:</h2>
-        <p>{inc1} {mea1}</p>
-        <p>{inc2} {mea2}</p>
-        <p>{inc3} {mea2}</p>
-        <p>{inc4} {mea3}</p>
-        <p>{inc5} {mea3}</p>
+        <p>{mea1} {inc1}</p>
+        <p>{mea2} {inc2}</p>
+        <p>{mea3} {inc3}</p>
+        <p>{mea4} {inc4}</p>
+        <p>{mea5} {inc5}</p>
         <h2>Instructions:</h2>
         <p>{instr}</p>
       </div>
